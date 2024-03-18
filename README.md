@@ -1,6 +1,6 @@
 Hi there 👋, I'm Faisal Hossain
 
-junior web developer
+Junior Web Developer
 
 Skills: HTML / CSS / Tailwind
 
