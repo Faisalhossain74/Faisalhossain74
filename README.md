@@ -1,4 +1,4 @@
-<span style="color:red;" >Hi there 👋, I'm Faisal Hossain</span>
+<span style="font-size:0.5em;" >Hi there 👋, I'm Faisal Hossain</span>
 
 Junior Web Developer
 
