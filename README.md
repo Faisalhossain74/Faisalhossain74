@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/https://www.facebook.com/faisal.hossain.1272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faisal.hossain.1272/" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/faisal.hossain.1272/" target="blank"><img src="https://camo.githubusercontent.com/52a3dbccdeb55b8cb5d1be132a446283d34a5d8cdb8fafe45c9e5eb883db5ac6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="facebook" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width: 100%;"></a>
   <a href="https://github.com/Faisalhossain74">
-   <img src="https://camo.githubusercontent.com/52a3dbccdeb55b8cb5d1be132a446283d34a5d8cdb8fafe45c9e5eb883db5ac6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="facebook" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width: 100%;"></a>
+   <img src="https://camo.githubusercontent.com/52a3dbccdeb55b8cb5d1be132a446283d34a5d8cdb8fafe45c9e5eb883db5ac6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="facebook" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
