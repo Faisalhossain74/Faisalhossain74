@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Hossain</h1>
 <h3 align="center">I’m a Junior frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhossain74&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhossain74" /> </p>
-
 - 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **faisalhossain7474@gmail.com**
