@@ -2,7 +2,7 @@ Hi there 👋, I'm Faisal Hossain
 
 Junior Web Developer
 
-Skills: HTML / CSS / Tailwind CSS / javascript learning
+Skills: HTML / CSS / Tailwind CSS / JavaScript learning
 
 
 <!---
