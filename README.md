@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Hossain</h1>
 <h3 align="center">I’m a Junior frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **faisalhossain7474@gmail.com**
 
