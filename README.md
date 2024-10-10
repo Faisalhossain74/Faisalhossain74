@@ -9,8 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Faisalhossain74">
-   <img src="https://camo.githubusercontent.com/970d360848b0457c5192633c0a0126f2569d6adc07938077aa91e635426ba19d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="github" height="30"  data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width: 100%;"></a>
   <a href="https://www.facebook.com/faisal.hossain.1272?mibextid=ZbWKwL" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faisal.hossain.1272/" height="30" /></a>
 </p>
 
