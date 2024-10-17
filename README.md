@@ -6,7 +6,7 @@
   🚀 Currently advancing my skills in **Next.js** and exploring **backend development**.
 </p>
 
----
+
 
 ### 🛠 Skills and Technologies:
 
@@ -19,7 +19,7 @@
 - **Version Control & Tools**: 
   - Git | GitHub | Visual Studio Code
 
----
+
 
 ### 📈 GitHub Stats:
 
